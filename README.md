@@ -3,7 +3,7 @@ React - Redux Project
 
 # Bookstore
 
-> "Bookstore"
+> In this project, you will configure your Redux Store and write actions and reducer for adding and removing books.
 
 ## Built With
 
@@ -29,9 +29,9 @@ Open a terminal or a git bash in the desired directory and run
 
 ## Authors
 
-👤 Ezema Anthony Sunday
+👤 Ezema Anthony
 
-- GitHub: [@sonyco-4u](https://github.com/sonyco-4u)
+- GitHub:  [@sonyco-4u](https://github.com/sonyco-4u)
 - Twitter: [@EZEMASUN](https://twitter.com/EZEMASUN)
 - LinkedIn: [ezema-anthony-sunday](https://www.linkedin.com/in/ezema-anthony-sunday-9180a3157)
 
