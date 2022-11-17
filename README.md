@@ -3,7 +3,7 @@ React - Redux Project
 
 # Bookstore
 
-> "Bookstore"
+> In this project, you will configure your Redux Store and write actions and reducer for adding and removing books.
 
 ## Built With
 
