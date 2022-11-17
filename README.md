@@ -3,7 +3,7 @@ React - Redux Project
 
 # Bookstore
 
-> In this project, you will configure your Redux Store and write actions and reducer for adding and removing books.
+> In this project, you will use Redux store to display books. You will also add some UI elements to your components and make them dispatch actions.
 
 ## Built With
 
