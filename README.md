@@ -3,7 +3,7 @@ React - Redux Project
 
 # Bookstore
 
-> In this project, you will connect your React-Redux application to an existing API to create and remove books in a remote server.
+> In this Project we add styling and also use Zeplin as a collaboration tool.
 
 ## Built With
 
@@ -25,7 +25,7 @@ React - Redux Project
 
 Open a terminal or a git bash in the desired directory and run
 
-`git clone https://github.com/ShingiraiBhengesa/react-book-store-app.git`
+`git clone https://github.com/sonyco-4u/Bookstore.git`
 
 - Next you will need a to create .env file. The .env file contains environment variables for the API configuration. There is a commented .env.example file you can use as a guide to configure your own.
 
